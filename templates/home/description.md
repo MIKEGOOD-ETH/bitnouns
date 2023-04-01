@@ -1,4 +1,11 @@
 # WTF is Noun Site?
 
-Congrats on deploying your new nounish website ✨. Head to `/templates/home/description.md` to edit this description.
-For full documentation visit the [Noun Site](https://github.com/neokry/noun-site) page on github.
+First there was NounsDAO.
+
+Next came Lil Nouns.
+
+Then came bitNouns.
+
+An expansion DAO based on Lil Nouns DAO, bitNouns works to create another layer within the Nounish ecosystem; The teeniest tiniest Noun yet.
+
+By expanding the ecosystem, bitNouns aims at exposing more people to Lil Nouns, and in turn Nouns DAO/the entire Nounish ecosystem via a practically free way to participate.
